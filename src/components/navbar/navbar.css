@@ -1,0 +1,12 @@
+.navbar{
+  background-color: white;
+  padding: 5px;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  width: 65vw;
+
+}
